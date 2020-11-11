@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c6f67c7-301f-41a0-9662-226fee960e37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e3DWjN3Bt41jozMBaxBKmCyLjg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Sudoku Game">
+    <configuration name="Sudoku Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sudoku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="builder (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sudoku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/builder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="builder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sudoku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Diego Rosenberg\Documents\Programación\Sudoku\builder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solver (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sudoku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sudoku_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sudoku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sudoku_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sudoku Game" />
+        <item itemvalue="Python.builder (1)" />
+        <item itemvalue="Python.sudoku_functions" />
+        <item itemvalue="Python.solver (1)" />
+        <item itemvalue="Python.builder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c6f67c7-301f-41a0-9662-226fee960e37" name="Default Changelist" comment="" />
+      <created>1593541416396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593541416396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1593576919653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1593576919653" />
+    <state width="1259" height="125" key="GridCell.Tab.0.bottom" timestamp="1595472151079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595472151079" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594670492038" />
+    <state width="1259" height="125" key="GridCell.Tab.0.center" timestamp="1595472151079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="125" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595472151079" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594670492038" />
+    <state width="1259" height="125" key="GridCell.Tab.0.left" timestamp="1595472151079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="125" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595472151079" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594670492038" />
+    <state width="1259" height="125" key="GridCell.Tab.0.right" timestamp="1595472151079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="125" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595472151079" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594670492038" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1594670492038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594088904017" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594670492038" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1594670492038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1594088904017" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594670492038" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1594670492038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1594088904017" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594670492038" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1594670492038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1594088904017" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594670492038" />
+    <state x="150" y="0" key="SettingsEditor" timestamp="1595470107654">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="150" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595470107654" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1595388982253">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1595388982253" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1594669524156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.0.1280.707/0.0.1920.1040@0.0.1920.1040" timestamp="1594669524156" />
+    <state x="213" y="76" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594088898634">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="213" y="76" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1594088898634" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1594344488614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1594344488614" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="__py_debug_temp_var_1579161909" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
